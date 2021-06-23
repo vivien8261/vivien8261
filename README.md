@@ -20,13 +20,17 @@
 - 🎮 主机控
 
 <br>
-<img alt="stars"
-     src="https://github-readme-stats.vercel.app/api?username=vivien8261&show_icons=true&theme=material-palenight">
-<br>
-<a href="https://github.com/vivien8261/Amiya-Bot" target="_blank">
+<div>
     <img alt="stars"
-         src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vivien8261&repo=Amiya-bot&theme=material-palenight"/>
-</a>
-<br>
-<img alt="stars"
-     src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vivien8261&layout=compact&theme=material-palenight">
+         src="https://github-readme-stats.vercel.app/api?username=vivien8261&show_icons=true&theme=material-palenight">
+</div>
+<div>
+    <a href="https://github.com/vivien8261/Amiya-Bot" target="_blank">
+        <img alt="amiya"
+             src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vivien8261&repo=Amiya-bot&theme=material-palenight">
+    </a>
+</div>
+<div>
+    <img alt="langs"
+         src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vivien8261&layout=compact&theme=material-palenight">
+</div>
