@@ -8,7 +8,7 @@
 </div>
 <br>
 
-- 🐰 Amiya-bot 作者
+- 🐰 [Amiya-bot](https://github.com/vivien8261/Amiya-Bot) 作者
 - 🐍 Python 开发
 - 🐝 WEB 开发
 - 👻 二次元
