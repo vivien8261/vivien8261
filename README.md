@@ -1,4 +1,4 @@
-# 嘿！这里是 Vivien
+## Hi！这里是 Vivien
 
 > 现实很累，想在这里看到不一样的自己。
 
@@ -8,19 +8,17 @@
 </div>
 <br>
 
-- 🐰 [Amiya-bot](https://github.com/vivien8261/Amiya-Bot) 作者
+- 🐰 [Amiya-bot](https://github.com/AmiyaBot) 作者
 - 🐍 Python 开发
 - 🐝 WEB 开发
 - 👻 二次元
-- 🎮 主机控
+- 🎮 主机控（已弃坑）
 
 <br>
-<div>
+<a href="https://github.com/AmiyaBot/Amiya-Bot" target="_blank">
     <img alt="stars"
-         src="https://github-readme-stats.vercel.app/api?username=vivien8261&show_icons=true&theme=material-palenight">
-    <img alt="langs"
-         src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vivien8261&layout=compact&theme=material-palenight">
-</div>
+         src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AmiyaBot&repo=Amiya-bot&theme=material-palenight"/>
+</a>
 <br>
 
-知道自己有多么不足，就永远保持努力，一定要给默默无闻的一生做点不会后悔的事！
+—— 保持谦虚、努力，一定要给默默无闻的一生做点不会后悔的事！❤️
