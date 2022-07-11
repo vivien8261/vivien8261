@@ -16,8 +16,13 @@
 
 <br>
 <a href="https://github.com/AmiyaBot/Amiya-Bot" target="_blank">
-    <img alt="stars"
+    <img alt="stars" style="display: block"
          src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AmiyaBot&repo=Amiya-bot&theme=material-palenight"/>
+</a>
+<br>
+<a href="https://github.com/AmiyaBot/Amiya-Bot" target="_blank">
+    <img alt="stars" style="display: block"
+         src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AmiyaBot&repo=Amiya-Bot-core&theme=material-palenight"/>
 </a>
 <br>
 
