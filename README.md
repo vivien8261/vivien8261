@@ -8,11 +8,11 @@
 </div>
 <br>
 
-- 🐰 [Amiya-bot](https://github.com/AmiyaBot) 作者
+- 🐰 [Amiya-bot](https://github.com/AmiyaBot) 
 - 🐍 Python 开发
 - 🐝 WEB 开发
 - 👻 二次元
-- 🎮 主机控（已弃坑）
+- 🎮 主机控
 
 <br>
 <a href="https://github.com/AmiyaBot/Amiya-Bot" target="_blank">
