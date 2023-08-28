@@ -27,5 +27,3 @@
 <br>
 
 —— 保持谦虚、努力，一定要给默默无闻的一生做点不会后悔的事！❤️
-
-Request ID for JetBrains OSS development license: 09082023/12252719
