@@ -5,6 +5,7 @@
 <div>
     <img alt="Python" src="https://img.shields.io/badge/Python-%232b5b84?logo=python&logoColor=white">
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2334495e?logo=vue.js">
+    <img alt="Golang" src="https://img.shields.io/badge/Golang-%23f0f8ff?logo=go">
 </div>
 <br>
 
