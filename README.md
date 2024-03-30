@@ -11,6 +11,7 @@
 - 🐰 [Amiya-bot](https://github.com/AmiyaBot) 
 - 🐍 Python 开发
 - 🐝 WEB 开发
+- 🐹 Go 开发
 - 👻 二次元
 - 🎮 主机控
 
