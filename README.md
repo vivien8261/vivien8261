@@ -1,7 +1,5 @@
 ## Hi！这里是 Vivien
 
-Request ID for JetBrains OSS development license: 08082024/14901655
-
 > 现实很累，想在这里看到不一样的自己。
 
 <div>
@@ -16,7 +14,7 @@ Request ID for JetBrains OSS development license: 08082024/14901655
 - 🐝 WEB 开发
 - 🐹 Go 开发
 - 👻 二次元
-- 🎮 游戏宅（PS & NS）
+- 🎮 游戏宅
 
 <br>
 <a href="https://github.com/AmiyaBot/Amiya-Bot" target="_blank">
