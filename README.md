@@ -9,12 +9,12 @@
 </div>
 <br>
 
-- 🐰 [AmiyaBot](https://github.com/AmiyaBot) 
+- 🐰 [AmiyaBot](https://github.com/AmiyaBot)
 - 🐍 Python 开发
 - 🐝 WEB 开发
 - 🐹 Go 开发
 - 👻 二次元
-- 🎮 游戏宅
+- 🎮 游戏宅 - [2025游戏列表](./GameLife/GameLife_2025.md)
 
 <br>
 <a href="https://github.com/AmiyaBot/Amiya-Bot" target="_blank">
