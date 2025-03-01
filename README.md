@@ -14,7 +14,7 @@
 - 🐝 WEB 开发
 - 🐹 Go 开发
 - 👻 二次元
-- 🎮 游戏宅 - [2024游戏列表](./GameLife/GameLife_2024.md)
+- 🎮 游戏宅 - [2025游戏列表](./GameLife/GameLife_2025.md)
 
 <br>
 <a href="https://github.com/AmiyaBot/Amiya-Bot" target="_blank">
