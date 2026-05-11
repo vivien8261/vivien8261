@@ -10,11 +10,12 @@
 <br>
 
 - 🐰 [AmiyaBot](https://github.com/AmiyaBot)
-- 🐍 Python 开发
-- 🐝 WEB 开发
-- 🐹 Go 开发
+- ~~🐍 Python 开发~~
+- ~~🐝 WEB 开发~~
+- ~~🐹 Go 开发~~
+- 👾 天才全能程序员（Vibe Coding 使用师）
 - 👻 二次元
-- 🎮 游戏宅 - [2025游戏列表](./GameLife/GameLife_2025.md)
+- 🎮 游戏宅 - [2026游戏列表](./GameLife/GameLife_2026.md)
 
 <br>
 <a href="https://github.com/AmiyaBot/Amiya-Bot" target="_blank">
